@@ -1,0 +1,32 @@
+#main {
+    display: inline-block;
+}
+#center-pic {
+    text-align: center;
+}
+
+#liger {
+    height: 300px;
+    width: auto;
+}
+#liger-fact-1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#header-title {
+    text-align: center;
+    font-size: 2rem;
+    font-family: fantasy;
+}
+
+#fun-fact {
+    text-align: center;
+}
+
+#nap-quote {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
